@@ -1,0 +1,40 @@
+.myMargin
+{
+    margin:5px;
+    
+
+}
+.myMargin2
+{
+    margin:3px;
+}
+.myMargin0
+{
+
+    margin-top: 3rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    box-shadow: 0px 0px 13px 8px rgba(0,0,0,0.75);
+}
+.rm{
+    margin-left: 4rem;
+}
+body{
+    background: url(cal.jpg);
+   background-color: goldenrod;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    margin-top: 0;
+
+    
+}
+label{
+    color: ghostwhite;
+   
+}
+#foot{
+    text-align: center;
+    margin-top: 8.5rem;
+    background-color: teal;
+}
