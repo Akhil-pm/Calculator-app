@@ -1,1 +1,1 @@
-"# Calculator-app using html,css and javascript" 
+"# Calculator-app using html,css" 
